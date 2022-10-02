@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @velazqje
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Python Data Structures, Mobile Development in Kotlin, and Web Development (HTML, CSS, JavaScript).
-- 💞️ I’m looking to collaborate on TBD
+- 💞️ I’m looking to collaborate on your next project
 - 📫 How to reach me (https://www.linkedin.com/in/jesseline-velazquez/)
 
 <!---
