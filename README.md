@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @velazqje
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Python Data Structures and Web Development (HTML, CSS, JavaScript, React).
+- 👀 I’m interested in Junior Developer roles or Internships
+- 🌱 I’m currently learning Data Structures (Python), Web Development (JavaScript, React) and Database Management (SQL).
 - 💞️ I’m looking to collaborate on your next project
 - 📫 How to reach me (https://www.linkedin.com/in/jesseline-velazquez/)
 
